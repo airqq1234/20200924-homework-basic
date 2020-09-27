@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 int main() {
   int num;
@@ -11,4 +11,3 @@ int main() {
   }
   cout << amount;
 }
-
